@@ -101,3 +101,19 @@ python VA_grading.py \
 The script appends records to `out/VA_grading.jsonl`
 
 Each record includes the model name, target emotion, seed, generated emotion vignette, and V-A assessment.
+
+## Citation
+
+If you find this work useful, please consider citing our paper:
+
+```bibtex
+@misc{ho2026inducedemotionbiasllm,
+      title={Can Induced Emotion Bias LLM Behaviors in Sequential Decision Making?}, 
+      author={Minh Khoi Ho and Zihao Zhu and Runchuan Zhu and Levina Li and Zhiwen Fan and Zhangyang Wang and Junyuan Hong},
+      year={2026},
+      eprint={2607.12631},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2607.12631}, 
+}
+```
