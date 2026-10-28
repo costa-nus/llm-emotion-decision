@@ -4,6 +4,8 @@
 
 <sup>1</sup>MBZUAI&emsp;<sup>2</sup>Texas A&M University&emsp;<sup>3</sup>National University of Singapore&emsp;<sup>4</sup>UCLA&emsp;<sup>5</sup>University of Texas at Austin&emsp;<sup>6</sup>Massachusetts General Hospital, Harvard Medical School
 
+[paper](https://arxiv.org/abs/2607.12631) published on COLM 2026.
+
 ## Abstract
 
 ![Overview](EmotionAgent.png)
